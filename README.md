@@ -16,6 +16,8 @@ We're providing you with a head start:
 
 Jump into the walkthrough of the project and starter code here: https://www.youtube.com/watch?v=aD8Wx9PGYSc
 
+My Loom Presentation: https://www.loom.com/share/738e7b88722946ceb5ae7845fce0cf23?sid=6240a471-e8f9-4880-9cd1-dc4cd6e53a69
+
 ### Project Overview
 
 As a newly hired developer at Agile Board, a fictional company specializing in innovative task management solutions, you'll embark on an exciting journey to enhance their flagship Kanban Task Management App.
